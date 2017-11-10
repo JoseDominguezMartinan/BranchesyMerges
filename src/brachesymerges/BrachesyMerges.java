@@ -18,6 +18,8 @@ public class BrachesyMerges {
         // TODO code application logic here
         
         System.out.println("este exercicio é para facer probas");
+        System.out.println("este exercicio é para facer probas, commit B");
+        System.out.println("este exercicio é para facer probas, commit D");
     }
     
 }
